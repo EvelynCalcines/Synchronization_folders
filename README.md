@@ -20,13 +20,15 @@ Para ejecutar este programa de sincronización de carpetas, siga los siguientes 
 
 ## Documentación Detallada
 
-Para obtener información más detallada sobre cómo funciona el programa y cómo se resolvió el ejercicio, consulte el [documento detallado en PDF]().
+Para obtener información más detallada sobre cómo funciona el programa y cómo se resolvió el ejercicio, consulte el [documento detallado en PDF](https://drive.google.com/file/d/1N1L75EI94GREzAs3qCUOS7-ZaaFSKnlA/view?usp=share_link).
 
 ## Contacto
 
 Si tiene alguna pregunta o necesita asistencia, no dude en ponerse en contacto conmigo:
 
 Nombre: Evelyn Calcines
+
 Correo Electrónico: evelyncc132002@gmail.com
+
 
 ¡Espero que encuentre útil esta solución!
