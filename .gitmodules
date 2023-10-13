@@ -1,0 +1,3 @@
+[submodule "synchronization_folders"]
+	path = synchronization_folders
+	url = https://github.com/EvelynCalcines/synchronization_folders
